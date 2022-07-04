@@ -1,0 +1,23 @@
+{
+  "name": "nft2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mint": "node scripts/mint-nft.js",
+    "deploy": "npx hardhat --network rinkeby run scripts/deploy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.9.9"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.4",
+    "@openzeppelin/contracts": "^4.7.0",
+    "dotenv": "^16.0.1"
+  }
+}
