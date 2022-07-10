@@ -1,4 +1,8 @@
-# Basic Sample Hardhat Project
+# 如何撰写和部署非同质化代币
+
+https://ethereum.org/zh/developers/tutorials/how-to-write-and-deploy-an-nft/
+
+## Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
